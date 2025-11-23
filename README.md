@@ -1,6 +1,6 @@
 <!-- 🌟 Banner -->
 <p align="center">
-  <img src="https://github.com/Nyalona/datacamp-projects/blob/main/github_banner.jpg?raw=true" alt="DataCamp Projects Banner" width="100%">
+  <img src="https://github.com/Nyalona/datacamp-projects/blob/main/assets/github_banner.jpg?raw=true" alt="DataCamp Projects Banner" width="100%">
 </p>
 
 # 📊 DataCamp Projects Portfolio
