@@ -70,7 +70,6 @@ This repository is part of my journey into becoming a professional data analyst.
 
 ---
 
-# ✨ Footer
 
 <p align="center">
   Made with 💙 by <strong>Kerina Anyona</strong>  
